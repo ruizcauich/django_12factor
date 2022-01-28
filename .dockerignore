@@ -1,0 +1,5 @@
+django_12factor/settings/.env
+*.idea/
+*.git
+*.gitignore
+*db.sqlite3
